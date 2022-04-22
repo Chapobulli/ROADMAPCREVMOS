@@ -1,9 +1,9 @@
 body {	
   margin: 0;
   padding: 0;
-  background: rgb(230,230,230);
+  background: rgb(0, 0, 0);
   
-  color: rgb(12, 12, 12);
+  color: rgb(255, 255, 255);
   font-family: 'Open Sans', sans-serif;
   font-size: 112.5%;
   line-height: 1.6em;
